@@ -11,8 +11,6 @@ To run and share executables open the Analyze_ab_test_results_notebook-Project3.
 **Babatomiwa (Tomi) Adegbenro**<br>
 tomi.adegbenro@gmail.com
 
-### Data COllection Date
-2019-05-24
 ### Methods Used
 * AB Testing
 * Data Visualization
